@@ -1,0 +1,7 @@
+    def plot(self):
+        va = value.get()
+        if va == 'sin' or va == 'cos' or va == 'tan':
+            va = va + '(x)'
+        if va == 'x²':
+            va = 'x * x'
+        graph.main(va)

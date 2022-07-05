@@ -1,0 +1,30 @@
+Roles:
+    Product owner
+
+    Project manager
+
+    Developers:
+        Lead. developer
+        Graphic
+        Code (general purpose)
+
+    DevOps
+
+    QA
+        Manual
+        Auto
+
+    Documentation
+
+    Customer support
+
+Stages:
+    Planning
+        Analysis
+            Design
+                Programming/Implementation
+                    QA
+                        Deployment/Integration
+                            Support
+
+git VCS
