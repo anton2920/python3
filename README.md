@@ -1,2 +1,2 @@
 # python3
-Various programs on Python3
+Various programs in Python3
