@@ -1,0 +1,6 @@
+Number of examples per class (training): [12500 12500 50000]
+Number of errors: 22597
+Accuracy on test data: 9.61%
+Accuracy on test data - method score: 9.61%
+Accuracy on train data - method score: 80.20%
+Average correctness cross check: 71.60%
