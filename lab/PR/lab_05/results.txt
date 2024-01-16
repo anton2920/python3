@@ -1,0 +1,5 @@
+Number of errors: 2934/25000
+Accuracy on test data: 88.26%
+Accuracy on test data (using score): 88.26%
+Accuracy on train data (using score): 94.58%
+Average correctness cross check: 89.00%
