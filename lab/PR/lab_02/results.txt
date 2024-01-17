@@ -1,1 +1,0 @@
-Predicted price: 18.782578 correct price: 18.8
